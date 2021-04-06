@@ -1,5 +1,4 @@
 # Hola-Mundo
-Hola Mundo Código
 
 public class Main {
 
